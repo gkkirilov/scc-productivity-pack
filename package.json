@@ -1,0 +1,35 @@
+{
+    "name": "salesforce-commerce-cloud-productivity-pack",
+    "displayName": "Salesforce Commerce Cloud Productivity Pack",
+    "description": "Productivity pack for Salesforce Commerce Cloud Developers",
+    "version": "1.0.0",
+    "icon": "images/logo.png",
+    "publisher": "georgikirilov",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/gkkirilov/scc-productivity-pack.git"
+    },
+    "bugs": {
+        "url": "https://github.com/gkkirilov/scc-productivity-pack/issues"
+    },
+    "homepage": "https://github.com/gkkirilov/scc-productivity-pack#readme",
+    "engines": {
+        "vscode": "^1.19.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionDependencies": [
+        "SqrTT.prophet",
+        "christian-kohler.path-intellisense",
+        "eamodio.gitlens",
+        "finico.quickOpenSelection",
+        "formulahendry.auto-rename-tag",
+        "HookyQR.beautify",
+        "mrmlnc.vscode-scss",
+        "nikhilkumar80.js-patterns-snippets",
+        "rafamel.subtle-brackets",
+        "robinbentley.sass-indented",
+        "shardulm94.trailing-spaces"
+    ]
+}
