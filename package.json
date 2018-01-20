@@ -4,7 +4,7 @@
     "description": "Productivity pack for Salesforce Commerce Cloud Developers",
     "version": "1.0.0",
     "icon": "images/logo.png",
-    "publisher": "georgikirilov",
+    "publisher": "gkkirilov",
     "repository": {
         "type": "git",
         "url": "https://github.com/gkkirilov/scc-productivity-pack.git"
