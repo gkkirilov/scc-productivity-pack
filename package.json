@@ -30,6 +30,7 @@
         "nikhilkumar80.js-patterns-snippets",
         "rafamel.subtle-brackets",
         "robinbentley.sass-indented",
-        "shardulm94.trailing-spaces"
+        "shardulm94.trailing-spaces",
+        "require-cartridge-resolve"
     ]
 }
