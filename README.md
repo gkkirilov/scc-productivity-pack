@@ -29,3 +29,5 @@ See an extension that you think should be included or removed? Create an [issue]
 - [Indented Sass](https://marketplace.visualstudio.com/items?itemName=robinbentley.sass-indented): Indented Sass syntax highlighting, autocomplete & snippets
 
 - [Trailing Spaces](https://marketplace.visualstudio.com/items?itemName=shardulm94.trailing-spaces): Highlight trailing spaces and delete them in a flash
+
+- [Require Cartridge Resolve](https://github.com/pikamachu/pika-vscode-require-cartridge-resolve): Provides definitions for Salesforce Commerce Cloud SFRA require cartridge files in your code for quick navigation and completion.
