@@ -2,7 +2,7 @@
     "name": "salesforce-commerce-cloud-productivity-pack",
     "displayName": "Salesforce Commerce Cloud Productivity Pack",
     "description": "Productivity pack for Salesforce Commerce Cloud Developers",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "icon": "images/logo.png",
     "publisher": "gkkirilov",
     "repository": {
