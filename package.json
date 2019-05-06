@@ -31,6 +31,6 @@
         "rafamel.subtle-brackets",
         "robinbentley.sass-indented",
         "shardulm94.trailing-spaces",
-        "require-cartridge-resolve"
+        "pikamachu.require-cartridge-resolve"
     ]
 }
