@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.0.2
+
+- **Remove SCSS Intellisense**
+
 ## 1.0.1
 
 - **Add require cartride resolve**
