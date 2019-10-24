@@ -20,8 +20,6 @@ See an extension that you think should be included or removed? Create an [issue]
 
 - [Beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify): Beautify code in place for VS Code
 
-- [SCSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-scss): Advanced autocompletion and refactoring support for SCSS
-
 - [JavaScript Patterns Snippets](https://marketplace.visualstudio.com/items?itemName=nikhilkumar80.js-patterns-snippets): Snippets for Visual Studio Code with good solutions for regular problems in JavaScript
 
 - [Subtle Match Brackets](https://marketplace.visualstudio.com/items?itemName=rafamel.subtle-brackets): Underlined matching brackets and more
