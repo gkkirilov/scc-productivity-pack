@@ -29,3 +29,5 @@ See an extension that you think should be included or removed? Create an [issue]
 - [Trailing Spaces](https://marketplace.visualstudio.com/items?itemName=shardulm94.trailing-spaces): Highlight trailing spaces and delete them in a flash
 
 - [Require Cartridge Resolve](https://github.com/pikamachu/pika-vscode-require-cartridge-resolve): Provides definitions for Salesforce Commerce Cloud SFRA require cartridge files in your code for quick navigation and completion.
+
+- [Isml Linter](https://marketplace.visualstudio.com/items?itemName=fabiowquixada.vscode-isml-linter): Enable capability to examining if your project's templates follow a specified set of rules defined for isml files.
