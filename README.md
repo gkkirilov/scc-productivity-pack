@@ -8,6 +8,10 @@ See an extension that you think should be included or removed? Create an [issue]
 
 - [Prophet Debugger](https://marketplace.visualstudio.com/items?itemName=SqrTT.prophet): Debugger for SCC, language support for ISML, uploader for changed files and a lot more
 
+- [Isml Linter](https://marketplace.visualstudio.com/items?itemName=fabiowquixada.vscode-isml-linter): Enable capability to examining if your project's templates follow a specified set of rules defined for isml files.
+
+- [Require Cartridge Resolve](https://marketplace.visualstudio.com/items?itemName=pikamachu.require-cartridge-resolve): Provides definitions for Salesforce Commerce Cloud SFRA require cartridge files in your code for quick navigation and completion.
+
 ### **Developer Experience Improvements**
 
 - [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense): Visual Studio Code plugin that autocompletes filenames
@@ -28,6 +32,6 @@ See an extension that you think should be included or removed? Create an [issue]
 
 - [Trailing Spaces](https://marketplace.visualstudio.com/items?itemName=shardulm94.trailing-spaces): Highlight trailing spaces and delete them in a flash
 
-- [Require Cartridge Resolve](https://github.com/pikamachu/pika-vscode-require-cartridge-resolve): Provides definitions for Salesforce Commerce Cloud SFRA require cartridge files in your code for quick navigation and completion.
+- [XML Tools](https://marketplace.visualstudio.com/items?itemName=DotJoshJohnson.xml): XML Formatting, XQuery, and XPath Tools for Visual Studio Code
 
-- [Isml Linter](https://marketplace.visualstudio.com/items?itemName=fabiowquixada.vscode-isml-linter): Enable capability to examining if your project's templates follow a specified set of rules defined for isml files.
+- [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight): Highlight TODOs, FIXMEs, and keywords

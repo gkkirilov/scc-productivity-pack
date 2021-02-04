@@ -3,6 +3,9 @@
 ## 1.0.3
 
 - **Add Isml Linter**
+- **Add XML Tools**
+- **Add TODO Highlight**
+- **Change Logo**
 
 ## 1.0.2
 

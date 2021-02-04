@@ -2,8 +2,12 @@
     "name": "salesforce-commerce-cloud-productivity-pack",
     "displayName": "Salesforce Commerce Cloud Productivity Pack",
     "description": "Productivity pack for Salesforce Commerce Cloud Developers",
-    "version": "1.0.1",
+    "version": "1.0.3",
     "icon": "images/logo.png",
+    "galleryBanner": {
+      "color": "#2673D4",
+      "theme": "dark"
+    },
     "publisher": "gkkirilov",
     "repository": {
         "type": "git",
@@ -31,6 +35,8 @@
         "robinbentley.sass-indented",
         "shardulm94.trailing-spaces",
         "pikamachu.require-cartridge-resolve",
-        "fabiowquixada.vscode-isml-linter"
+        "fabiowquixada.vscode-isml-linter",
+        "dotjoshjohnson.xml",
+        "wayou.vscode-todo-highlight"
     ]
 }
