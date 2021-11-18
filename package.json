@@ -25,6 +25,7 @@
     ],
     "extensionDependencies": [
         "SqrTT.prophet",
+        "ismailnguyen.fortuneteller",
         "christian-kohler.path-intellisense",
         "eamodio.gitlens",
         "finico.quickOpenSelection",
