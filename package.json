@@ -2,7 +2,7 @@
     "name": "salesforce-commerce-cloud-productivity-pack",
     "displayName": "Salesforce Commerce Cloud Productivity Pack",
     "description": "Productivity pack for Salesforce Commerce Cloud Developers",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "icon": "images/logo.png",
     "galleryBanner": {
       "color": "#2673D4",
@@ -25,6 +25,7 @@
     ],
     "extensionDependencies": [
         "SqrTT.prophet",
+        "ismailnguyen.fortuneteller",
         "christian-kohler.path-intellisense",
         "eamodio.gitlens",
         "finico.quickOpenSelection",

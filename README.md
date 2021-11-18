@@ -8,6 +8,8 @@ See an extension that you think should be included or removed? Create an [issue]
 
 - [Prophet Debugger](https://marketplace.visualstudio.com/items?itemName=SqrTT.prophet): Debugger for SCC, language support for ISML, uploader for changed files and a lot more
 
+- [fortuneteller](https://marketplace.visualstudio.com/items?itemName=ismailnguyen.fortuneteller): Salesforce Commerce Cloud aka SFCC/Demandware meta data uploader VS Code extension
+
 - [Isml Linter](https://marketplace.visualstudio.com/items?itemName=fabiowquixada.vscode-isml-linter): Enable capability to examining if your project's templates follow a specified set of rules defined for isml files.
 
 - [Require Cartridge Resolve](https://marketplace.visualstudio.com/items?itemName=pikamachu.require-cartridge-resolve): Provides definitions for Salesforce Commerce Cloud SFRA require cartridge files in your code for quick navigation and completion.
