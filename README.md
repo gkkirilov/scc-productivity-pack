@@ -22,8 +22,6 @@ See an extension that you think should be included or removed? Create an [issue]
 
 - [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag): Automatically rename paired HTML/XML tag, same as Visual Studio IDE does
 
-- [Beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify): Beautify code in place for VS Code
-
 - [JavaScript Patterns Snippets](https://marketplace.visualstudio.com/items?itemName=nikhilkumar80.js-patterns-snippets): Snippets for Visual Studio Code with good solutions for regular problems in JavaScript
 
 - [Subtle Match Brackets](https://marketplace.visualstudio.com/items?itemName=rafamel.subtle-brackets): Underlined matching brackets and more
